@@ -1,16 +1,35 @@
-## Hi there 👋
+i'm **hypsk8r**, but you can call me **hyp** for short.  
+i'm an artist, animator, composer and coder.
 
-<!--
-**hypsk8r/hypsk8r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![twitter](https://img.shields.io/badge/twitter-black?style=flat&logo=x&logoColor=ffffff)](https://x.com/hypsk8r)
+[![youtube](https://img.shields.io/badge/youtube-red?style=flat&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@hypsk8r)
+[![gamebanana](https://img.shields.io/badge/gamebanana-yellow?style=flat&logo=gamebanana&logoColor=ffffff)](https://gamebanana.com/members/14190)
 
-Here are some ideas to get you started:
+## projects i made:
+- ![awesome mod](https://gamebanana.com/mods/592129)
+- *can you hear (in hiatus)*
+- *hyp mix (in development)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## projects i've worked on:
+<dl>
+	<dt><a href="https://gamebanana.com/mods/547067" target="_blank">Internet Oddities</a></dt>
+  	<dd>artist, animator</dd>
+	<dt><a href="https://gamebanana.com/mods/454199" target="_blank">FNF: Spirits Of Hell</a></dt>
+  	<dd>coder</dd>
+	<dt><a href="https://gamebanana.com/mods/563212" target="_blank">FNF: Rayman Tales of Darkness</a></dt>
+  	<dd>coder</dd>
+	<dt><a href="https://gamebanana.com/mods/565784" target="_blank">ASDF's Endless Muffin Time</a></dt>
+  	<dd>artist, animator</dd>
+	<dt><a href="https://gamebanana.com/mods/697654" target="_blank">VS LEA</a></dt>
+  	<dd>composer</dd>
+	<dt><a href="https://gamebanana.com/mods/597467" target="_blank">KSI TERROR</a></dt>
+  	<dd>coder</dd>
+	<dt><a href="https://gamebanana.com/mods/627836" target="_blank">BERGABASH</a></dt>
+  	<dd>coder</dd>
+	<dt><a href="https://gamebanana.com/mods/639744" target="_blank">Ourple Retake</a></dt>
+  	<dd>coder, composer</dd>
+	<dt><a href="https://gamebanana.com/mods/656573" target="_blank">Bully: Funkin' Edition</a></dt>
+  	<dd>coder, ui designer</dd>
+	<dt><a href="https://gamebanana.com/mods/566192" target="_blank">BFDI 26</a></dt>
+  	<dd>artist, animator</dd>
+</dl>
