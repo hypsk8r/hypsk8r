@@ -1,12 +1,12 @@
-i'm **hypsk8r**, but you can call me **hyp** for short.  
+i'm hypsk8r, but you can call me hyp for short.  
 i'm an artist, animator, composer and coder.
 
 [![twitter](https://img.shields.io/badge/twitter-black?style=flat&logo=x&logoColor=ffffff)](https://x.com/hypsk8r)
 [![youtube](https://img.shields.io/badge/youtube-red?style=flat&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@hypsk8r)
-[![gamebanana](https://img.shields.io/badge/gamebanana-yellow?style=flat&logo=gamebanana&logoColor=ffffff)](https://gamebanana.com/members/14190)
+[![gamebanana](https://img.shields.io/badge/gamebanana-yellow?style=flat&logo=gamebanana&logoColor=ffffff)](https://gamebanana.com/members/1419032)
 
 ## projects i made:
-- ![awesome mod](https://gamebanana.com/mods/592129)
+- [awesome mod](https://gamebanana.com/mods/592129)
 - *can you hear (in hiatus)*
 - *hyp mix (in development)*
 
